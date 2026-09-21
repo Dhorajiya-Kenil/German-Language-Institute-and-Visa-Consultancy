@@ -1,34 +1,40 @@
-# United-German-Language-Institute
-Business website for United German Language Institute built on GoHighLevel. Features lead-capture funnels, university info, responsive UI design, and structured navigation for prospective students aiming to study in Germany.
+# German Language Institute & Visa Consultancy
+
+A professional business website built for **German Language Institute & Visa Consultancy**, combining German language education, study-abroad guidance, university information, and visa consultancy services for students planning to study in Germany.
 
 ## Live Website
 
-**Visit the website:**  
+**Preview / Website:**  
 https://link.scale4ever.com/preview/vy75icfiKH4HwNWm6HSJ?notrack=true
 
-> The website is hosted and managed through **GoHighLevel**.
+> The website is developed and managed using **GoHighLevel**.
 
 ---
 
 ## Project Overview
 
-The United German Language Institute website was designed and developed to provide prospective students with a clear and engaging way to discover German language courses, understand the learning opportunities available, and get in contact with the institute.
+The **German Language Institute & Visa Consultancy** website was designed and developed as a digital platform for prospective students interested in learning German, exploring higher-education opportunities in Germany, and receiving guidance throughout the study-abroad and visa process.
 
-The project focuses on a clean visual presentation, responsive layouts, intuitive navigation, and a user-friendly experience across desktop and mobile devices.
+The website brings educational and consultancy services together in one user-friendly experience, helping visitors discover language programs, explore university-related information, understand available consultancy services, and submit enquiries.
+
+The project focuses on professional presentation, responsive UI design, structured navigation, clear calls-to-action, and lead generation across desktop, tablet, and mobile devices.
 
 ---
 
 ## Key Features
 
-- German language course presentation
+- German language course information
+- University and study-abroad information
+- Visa consultancy services
+- Guidance for students planning to study in Germany
+- Lead-capture and enquiry forms
+- Lead-generation funnels
 - Responsive design for desktop, tablet, and mobile
-- User-friendly navigation
-- Contact and enquiry forms
-- Modern and professional visual design
-- Optimized page structure for a smooth user experience
-- Clear calls-to-action for prospective students
-- Online presence and lead-generation functionality
-- Integration with GoHighLevel platform
+- Structured and intuitive navigation
+- Modern and professional UI design
+- Clear calls-to-action
+- GoHighLevel integrations and platform functionality
+- Contact and consultation enquiry functionality
 
 ---
 
@@ -36,71 +42,136 @@ The project focuses on a clean visual presentation, responsive layouts, intuitiv
 
 | Technology / Tool | Purpose |
 |---|---|
-| **GoHighLevel** | Website development, hosting, forms, and platform functionality |
+| **GoHighLevel** | Website development, hosting, forms, funnels, and lead management |
 | **HTML** | Page structure where applicable |
-| **CSS** | Styling and responsive design |
+| **CSS** | Styling, layout, and responsive design |
 | **JavaScript** | Custom interactions and functionality where applicable |
 | **Responsive Design** | Cross-device user experience |
 
-> The website was primarily developed within the GoHighLevel platform. Any custom HTML, CSS, or JavaScript included in this repository represents custom work added to the project.
+> The website was primarily developed within the GoHighLevel platform. Any custom HTML, CSS, JavaScript, or other assets included in this repository represent custom work added to the project.
+
+---
+
+## Project Objectives
+
+The main objectives of the website were to:
+
+1. Establish a professional online presence for the institute and consultancy.
+2. Present German language courses in a clear and accessible way.
+3. Help prospective students explore study opportunities in Germany.
+4. Provide information about university and study-abroad pathways.
+5. Present visa consultancy and student-support services.
+6. Generate qualified enquiries through lead-capture forms and funnels.
+7. Create a responsive and user-friendly experience across devices.
+8. Guide visitors toward relevant consultation and enquiry actions.
 
 ---
 
 ## Design Approach
 
-The website was designed with the following principles:
+The website was designed around a professional education and consultancy experience.
 
-- **Clean & professional** — appropriate for an educational institution
-- **User-focused** — information is structured for easy navigation
-- **Responsive** — designed to work across different screen sizes
-- **Conversion-focused** — clear calls-to-action encourage visitors to enquire about courses
-- **Accessible presentation** — important information is presented in a straightforward way
+### Key design principles
 
----
-
-## Responsive Experience
-
-The website is designed to provide a consistent experience across:
-
-- Desktop
-- Mobile
-- Tablet
-
-Particular attention was given to responsive layouts, typography, spacing, navigation, and content presentation.
+- **Professional** — builds trust for prospective students and clients.
+- **User-focused** — important information is easy to find and understand.
+- **Responsive** — optimized for desktop, tablet, and mobile screens.
+- **Conversion-focused** — strategically placed calls-to-action and enquiry forms.
+- **Structured** — services and information are organized for straightforward navigation.
+- **Modern** — clean layouts and contemporary visual presentation.
 
 ---
 
 ## My Role
 
-**Web Designer & Developer**
+### Web Designer & Developer
 
 My responsibilities included:
 
-- Planning the website structure
-- Designing the page layouts
-- Building the website in GoHighLevel
-- Configuring website sections and components
+- Planning the website structure and user journey
+- Designing page layouts and sections
+- Building the website using GoHighLevel
+- Creating and configuring website components
 - Implementing responsive layouts
 - Customizing the visual design
-- Adding and configuring forms
-- Implementing custom code where required
+- Structuring course and consultancy information
+- Creating lead-capture forms and enquiry flows
+- Implementing custom CSS/JavaScript where required
+- Optimizing navigation and calls-to-action
 - Testing the website across different screen sizes
-- Preparing the website for production
+- Preparing and publishing the website
+
+---
+
+## Responsive Experience
+
+The website was designed to provide a consistent experience across:
+
+- Desktop
+- Mobile
+- Tablet
+
+Responsive considerations included:
+
+- Layout and spacing
+- Typography
+- Navigation
+- Buttons and calls-to-action
+- Forms
+- Content hierarchy
+- Section alignment
+- Mobile-friendly interactions
+
+---
+
+## Lead Generation & Conversion
+
+A key part of the project was creating a website experience that supports **lead generation** for language courses and consultancy services.
+
+The website includes:
+
+- Lead-capture forms
+- Consultation enquiry flows
+- Clear calls-to-action
+- Contact sections
+- Service-focused landing sections
+- Structured visitor journeys
+- GoHighLevel funnel functionality
+
+These elements are designed to help prospective students move from discovering a service to submitting an enquiry.
+
+---
+
+## Education & Study-Abroad Services
+
+The website communicates information related to:
+
+- German language learning
+- German language courses
+- Studying in Germany
+- University opportunities
+- Study-abroad guidance
+- Student consultancy
+- Visa consultancy
+- Enquiry and consultation services
+
+> Specific services and eligibility requirements may vary and should be confirmed directly with the consultancy.
 
 ---
 
 ## Repository Structure
 
 ```text
-united-german-language-institute/
+german-language-institute-visa-consultancy/
 │
 ├── README.md
 │
 ├── screenshots/
 │   ├── homepage.png
 │   ├── courses.png
-│   ├── about.png
-│   └── contact.png
+│   ├── universities.png
+│   ├── visa-consultancy.png
+│   └── mobile.png
 │
 ├── custom-code/
 │   ├── custom.css
@@ -110,86 +181,98 @@ united-german-language-institute/
     └── project-details.md
 ```
 
-> The repository structure may contain only the custom assets/code that can be legally and technically exported from GoHighLevel. The complete underlying GoHighLevel platform source code is not part of this repository.
+> Because the website is built and hosted within GoHighLevel, this repository may contain documentation, screenshots, custom code, and other publicly shareable project assets rather than the complete underlying GoHighLevel platform source code.
 
 ---
 
 ## Screenshots
 
+Add project screenshots to the `screenshots/` folder and update the paths below.
+
 ### Homepage
 
-_Add homepage screenshot here._
+![Homepage](screenshots/homepage.png)
 
-```text
-screenshots/homepage.png
-```
+### German Language Courses
 
-### Courses
+![Courses](screenshots/courses.png)
 
-_Add course page screenshot here._
+### University / Study-Abroad Information
 
-```text
-screenshots/courses.png
-```
+![Universities](screenshots/universities.png)
+
+### Visa Consultancy
+
+![Visa Consultancy](screenshots/visa-consultancy.png)
 
 ### Mobile Experience
 
-_Add mobile screenshot here._
-
-```text
-screenshots/mobile.png
-```
+![Mobile](screenshots/mobile.png)
 
 ---
 
 ## Development & Deployment
 
-The website was developed and configured using **GoHighLevel** and deployed through the GoHighLevel platform.
+The website was developed and configured using **GoHighLevel**.
 
-The platform provides functionality for:
+GoHighLevel was used for relevant website and marketing functionality, including:
 
-- Website hosting
+- Website creation
 - Page management
-- Forms
-- Lead capture
-- Marketing automation
+- Hosting
+- Lead-capture forms
+- Funnels
+- Contact/enquiry functionality
+- Marketing automation where applicable
 - Domain configuration
 - Website publishing
 
 ---
 
-## Project Goals
-
-The primary goals of the project were to:
-
-1. Establish a professional online presence for the institute.
-2. Clearly communicate available German language learning opportunities.
-3. Provide visitors with an easy way to contact the institute.
-4. Create a responsive experience across devices.
-5. Build a website structure that supports student enquiries and lead generation.
-
----
-
 ## Custom Development
 
-Where required, custom front-end code was used to extend the standard GoHighLevel website functionality.
+Where required, custom front-end development was used to extend and customize the GoHighLevel website experience.
 
-Custom development may include:
+This may include:
 
-- CSS styling
-- Responsive adjustments
+- Custom CSS
+- Responsive styling
 - JavaScript interactions
 - Layout customization
 - UI improvements
-- Custom sections and components
+- Custom sections
+- Form styling
+- Mobile-specific adjustments
 
-Only code and assets that are appropriate to publish publicly are included in this repository.
+Only code and assets that are appropriate and authorized for public publication should be included in this repository.
 
 ---
 
 ## Project Outcome
 
-The completed website provides United German Language Institute with a professional digital presence designed to communicate its educational offerings and make it easier for prospective students to learn about the institute and submit enquiries.
+The completed website provides **German Language Institute & Visa Consultancy** with a professional digital presence that combines language education, study-abroad information, university guidance, and visa consultancy services.
+
+The website is structured to help prospective students discover relevant services, understand their options, and easily submit enquiries or request further consultation.
+
+---
+
+## Privacy & Security
+
+This repository should not contain confidential information.
+
+Do **not** publish:
+
+- API keys
+- Passwords
+- Authentication credentials
+- Private customer information
+- Student documents
+- Database credentials
+- Private contact information
+- Environment secrets
+- Internal business information
+
+Before publishing the repository, review all files and remove any sensitive or client-confidential information.
 
 ---
 
@@ -197,29 +280,14 @@ The completed website provides United German Language Institute with a professio
 
 This repository documents a website project developed using **GoHighLevel**.
 
-It does **not** contain the proprietary source code of the GoHighLevel platform or any confidential client information.
+It does not contain the proprietary source code of the GoHighLevel platform.
 
-Sensitive information such as:
-
-- API keys
-- Passwords
-- Authentication credentials
-- Private customer information
-- Database credentials
-- Environment secrets
-
-should never be committed to this repository.
-
----
-
-**Platform:** GoHighLevel
-
-**Project:** United German Language Institute Website
+Website content, branding, images, logos, business information, and client-related materials may belong to **German Language Institute & Visa Consultancy** or their respective owners and should not be reused without appropriate permission.
 
 ---
 
 ## License
 
-This repository is intended primarily as a portfolio and project documentation.
+This repository is intended primarily for **portfolio and project documentation purposes**.
 
-Unless otherwise stated, the website design, content, branding, and client-related materials remain the property of their respective owners and should not be reused without permission.
+Unless otherwise stated, the website design, content, branding, images, and client-related materials remain the property of their respective owners and should not be reused without permission.
