@@ -165,49 +165,14 @@ The website communicates information related to:
 german-language-institute-visa-consultancy/
 │
 ├── README.md
-│
-├── screenshots/
-│   ├── homepage.png
-│   ├── courses.png
-│   ├── universities.png
-│   ├── visa-consultancy.png
-│   └── mobile.png
-│
 ├── custom-code/
 │   ├── custom.css
 │   └── custom.js
-│
 └── documentation/
     └── project-details.md
 ```
 
-> Because the website is built and hosted within GoHighLevel, this repository may contain documentation, screenshots, custom code, and other publicly shareable project assets rather than the complete underlying GoHighLevel platform source code.
-
----
-
-## Screenshots
-
-Add project screenshots to the `screenshots/` folder and update the paths below.
-
-### Homepage
-
-![Homepage](screenshots/homepage.png)
-
-### German Language Courses
-
-![Courses](screenshots/courses.png)
-
-### University / Study-Abroad Information
-
-![Universities](screenshots/universities.png)
-
-### Visa Consultancy
-
-![Visa Consultancy](screenshots/visa-consultancy.png)
-
-### Mobile Experience
-
-![Mobile](screenshots/mobile.png)
+> Because the website is built and hosted within GoHighLevel, this repository may contain documentation, custom code, and other publicly shareable project assets rather than the complete underlying GoHighLevel platform source code.
 
 ---
 
