@@ -25,5 +25,14 @@ The project focuses on a clean visual presentation, responsive layouts, intuitiv
 - Modern and professional visual design
 - Optimized page structure for a smooth user experience
 - Clear calls-to-action for prospective students
-- Online presence and lead-generation functionality\
+- Online presence and lead-generation functionality
 - Integration with GoHighLevel platform
+
+---
+🛠️ Technologies & Tools
+Technology / Tool	Purpose
+GoHighLevel	Website development, hosting, forms, and platform functionality
+HTML	Page structure where applicable
+CSS	Styling and responsive design
+JavaScript	Custom interactions and functionality where applicable
+Responsive Design	Cross-device user experience
