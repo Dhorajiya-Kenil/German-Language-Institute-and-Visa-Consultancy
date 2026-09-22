@@ -159,19 +159,6 @@ The website communicates information related to:
 
 ---
 
-## Repository Structure
-
-```text
-german-language-institute-visa-consultancy/
-│
-├── README.md
-├── custom-code/
-│   ├── custom.css
-│   └── custom.js
-└── documentation/
-    └── project-details.md
-```
-
 > Because the website is built and hosted within GoHighLevel, this repository may contain documentation, custom code, and other publicly shareable project assets rather than the complete underlying GoHighLevel platform source code.
 
 ---
